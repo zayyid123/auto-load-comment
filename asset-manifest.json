@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/auto-load-comment/static/css/main.7c4ff8ac.css",
+    "main.js": "/auto-load-comment/static/js/main.1df079fc.js",
+    "index.html": "/auto-load-comment/index.html",
+    "main.7c4ff8ac.css.map": "/auto-load-comment/static/css/main.7c4ff8ac.css.map",
+    "main.1df079fc.js.map": "/auto-load-comment/static/js/main.1df079fc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7c4ff8ac.css",
+    "static/js/main.1df079fc.js"
+  ]
+}
