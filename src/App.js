@@ -40,7 +40,7 @@ function App() {
     }}>
       <h1>Infinite Scroll With jsonplaceholder</h1>
 
-      <p>You can find all of this code in my github: zayyid123</p>
+      <p>You can find all of this code in my github: <a href='https://github.com/zayyid123' style={{textDecoration: "none", color: 'blue'}}><b>zayyid123</b></a></p>
 
       <InfiniteScroll
         dataLength={items.length} 
@@ -63,7 +63,8 @@ function App() {
                 boxShadow: 'rgba(100, 100, 111, 0.2) 0px 7px 29px 0px',
                 borderRadius: '10px',
                 maxWidth: '350px',
-                marginTop: '10px'
+                marginTop: '10px',
+                backgroundColor: 'white'
                 }}>
               <h3>{item.name.toUpperCase()}</h3>
               <h4>{item.email}</h4>
